@@ -1,0 +1,14 @@
+.\img\1.jpg,.\obj_db\target\1-0_ccbd1f4f-1240-4379-8bc9-acc45418013b.jpg,139,131,357,221
+.\img\1.jpg,.\obj_db\target\1-0_523b5739-3b07-4cd4-8953-e98518830d75.jpg,27,0,621,189
+.\img\2.jpg,.\obj_db\target\2-1_74052e81-b472-43a9-b24e-cdd2e702ee66.jpg,0,0,637,229
+.\img\1.jpg,.\obj_db\target\1-0_735e1893-3216-460f-8477-1212e23b2eff.jpg,443,443,509,480
+.\img\1.jpg,.\obj_db\target\1-0_8145cee2-747a-45fb-b1fd-2961b1457a25.jpg,147,355,181,405
+.\img\1.jpg,.\obj_db\target\1-0_3ab08457-c173-42ae-b13e-81637608bb3d.jpg,227,315,373,429
+.\img\1.jpg,.\obj_db\target\1-0_15e300ee-3302-4ff1-9a7f-ff08cb5c102b.jpg,611,283,640,341
+.\img\1.jpg,.\obj_db\target\1-0_c77d95dc-20c2-4cf1-8e7c-5f2492a439bd.jpg,195,163,309,261
+.\img\1.jpg,.\obj_db\target\1-0_9c09e703-97f7-4499-a60a-070d5cc1afa9.jpg,123,155,165,189
+.\img\2.jpg,.\obj_db\target\2-1_6a531365-363b-48d8-88b1-6beb5da15f5d.jpg,315,323,397,405
+.\img\2.jpg,.\obj_db\target\2-1_e74d4f99-2179-448d-9d10-03fd230bc849.jpg,315,203,405,261
+.\img\1.jpg,.\obj_db\target\1-0_0159d0c8-0124-4b60-b264-a1db3f1260a5.jpg,163,179,285,277
+.\img\2.jpg,.\obj_db\target\2-1_36e51335-c0a5-413d-98d6-ed3a618ee127.jpg,219,339,293,429
+.\img\2.jpg,.\obj_db\target\2-1_12063d29-051e-4ac9-adfe-8107ab7c44f2.jpg,331,291,405,365
